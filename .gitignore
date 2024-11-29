@@ -1,0 +1,10 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+uploads/*
+staticfiles/*
+env/*
+.env
+db.sqlite3
+ilodashboard/settings.py
